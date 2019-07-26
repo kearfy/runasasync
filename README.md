@@ -1,4 +1,4 @@
-# asasync
+# runasasync
 Run functions as async (JS)
 
 # examples
