@@ -1,4 +1,4 @@
-var async = require('../index.js');
+var async = require('runasasync');
 
 function example() {
     async(() => { console.log('async'); });

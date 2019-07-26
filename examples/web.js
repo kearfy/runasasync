@@ -1,7 +1,7 @@
-//include "asasync.js" file in root to page with a script tag: <script src="asasync.js"></script>
+//include "runasasync.js" file in root to page with a script tag: <script src="runasasync.js"></script>
 
 function example() {
-    async(() => { console.log('async'); });
+    runasasync(() => { console.log('async'); });
     console.log('sync');
 }
 
