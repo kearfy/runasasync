@@ -1,0 +1,23 @@
+{
+  "name": "asasync",
+  "version": "1.0.0",
+  "description": "Run functions as async",
+  "main": "asasync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kearfy/asasync.git"
+  },
+  "keywords": [
+    "async",
+    "asasync"
+  ],
+  "author": "Micha de Vries",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/kearfy/asasync/issues"
+  },
+  "homepage": "https://github.com/kearfy/asasync#readme"
+}
